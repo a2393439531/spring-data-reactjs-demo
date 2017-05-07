@@ -13,6 +13,7 @@
 
     <modules>
         <module>basic</module>
+        <module>hypermedia</module>
     </modules>
 
 </project>

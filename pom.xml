@@ -15,6 +15,7 @@
         <module>basic</module>
         <module>hypermedia</module>
         <module>conditional</module>
+        <module>events</module>
     </modules>
 
 </project>

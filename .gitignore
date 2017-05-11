@@ -1,5 +1,4 @@
 
-.gitignore
 .gradle/
 .idea/
 basic/build/
@@ -208,3 +207,8 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+conditional/conditional.iml
+conditional/target/
+events/events.iml
+hypermedia/hypermedia.iml
+hypermedia/target/
